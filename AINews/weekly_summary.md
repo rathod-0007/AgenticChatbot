@@ -1,0 +1,20 @@
+# Weekly AI News Summary
+
+### 2026-02-13
+- [India in 1st group of AI-ready nations with youngest workforce](https://www.ahmedabadmirror.com/india-in-1st-group-of-ai-ready-nations-with-youngest-workforce/81907908.html)
+- [Nvidia’s Jensen Huang Sets an India Narrative on Self-Driving Cars, but What’s Really Cooking?](https://cxotoday.com/news-analysis/nvidias-jensen-huang-sets-an-india-narrative-on-self-driving-cars-but-whats-really-cooking/)
+- [Maharashtra govt to hold global Conference on Artificial Intelligence in Agriculture and Investment Summit- “AI for Agri 2026”](https://www.thehindu.com/news/cities/mumbai/maharashtra-govt-to-hold-artificial-intelligence-in-agriculture-and-investment-summit-on-feb-22/article70625226.ece)
+- [CSIRO backs AI for future-ready agriculture](https://www.miragenews.com/csiro-backs-ai-for-future-ready-agriculture-1619165/)
+- [The next AI breakthrough will come from governance](https://www.finextra.com/the-long-read/1575/the-next-ai-breakthrough-will-come-from-governance)
+- [Workday CEO Carl Eschenbach is stepping down, co-founder Aneel Bhusri to take over](https://www.cnbc.com/2026/02/09/workday-stock-carl-eschenbach-aneel-bhusri.html)
+- [Coinbase unveils agentic wallets](https://www.finextra.com/newsarticle/47300/coinbase-unveils-agentic-wallets)
+- [2 No-Brainer AI Stocks to Buy Right Now](https://www.fool.com/investing/2026/02/12/2-no-brainer-ai-stocks-to-buy-right-now/)
+- [AI fears hit wealth management and price comparison stocks](https://www.finextra.com/newsarticle/47286/ai-fears-hit-wealth-management-and-price-comparison-stocks)
+- [Why the $70 Million ai.com Domain Could Become the Front Door to AGI](https://hackernoon.com/why-the-$70-million-aicom-domain-could-become-the-front-door-to-agi)
+- [US pushes AI funding, fisheries tech at APEC amid China rivalry](https://www.reuters.com/world/china/us-pushes-ai-funding-fisheries-tech-apec-amid-china-rivalry-2026-02-12/)
+- [Fox News AI Newsletter: Trump activates 'tech force'](https://www.foxnews.com/tech/ai-newsletter-trump-activates-tech-force)
+- [Ben-Gurion University professor recommended for UN global panel on artificial intelligence](https://www.ynetnews.com/article/ska7swnvzl)
+- [In Other News: Google Looks at AI Abuse, Trump Pauses China Bans, Disney’s $2.7M Fine](https://www.securityweek.com/in-other-news-google-looks-at-ai-abuse-trump-pauses-china-bans-disneys-2-7m-fine/)
+- [The financial services industry has officially moved from experimentation to execution on artificial intelligence](https://thefintechtimes.com/financial-services-reaches-ai-tipping-point-with-just-2-of-firms-reporting-no-usage/)
+- [Pentagon pushing AI companies to expand on classified networks](https://www.itnews.com.au/news/pentagon-pushing-ai-companies-to-expand-on-classified-networks-623589)
+- [Yelp To Acquire AI Lead-Management Firm For More Than $270M](https://www.mediapost.com/publications/article/412234/yelp-to-acquire-ai-lead-management-firm-for-more-t.html)
