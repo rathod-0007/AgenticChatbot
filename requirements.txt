@@ -7,9 +7,6 @@ python-dotenv
 langchain-openai
 langchain-groq
 
-arxiv
-wikipedia
-
 langgraph-cli[inmem]
 
 faiss-cpu
