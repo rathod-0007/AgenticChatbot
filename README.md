@@ -1,5 +1,11 @@
-### End to End Agentic Chatbot
-  #### An end-to-end AI Agentic system built with **LangGraph**, **LangChain**, and **Streamlit**. This chatbot goes beyond simple conversation by integrating real-time web search and automated news summarization.
+###  End to End Agentic Chatbot 🚀
+
+#### 🧠 An end-to-end AI Agentic system built with **LangGraph**, **LangChain**, and **Streamlit**.
+![LangGraph](https://img.shields.io/badge/Framework-LangGraph-orange?style=flat&logo=graph)
+![Tavily](https://img.shields.io/badge/Search-Tavily-00BCD4?style=flat&logo=target)
+![Streamlit](https://img.shields.io/badge/UI-Streamlit-FF4B4B?style=flat&logo=streamlit)
+
+> This chatbot goes beyond simple conversation by integrating real-time **web search** 🌐 and **automated news summarization** 📰.
 
 ## 🚀 Live Demo & walkthrough
 - **Live Application:** [agenticchatbot-rathod0007.streamlit.app](https://agenticchatbot-rathod0007.streamlit.app/)
@@ -77,29 +83,28 @@ Automated workflows that generate and save markdown reports.
 | :---: | :---: |
 | ![Summarize](./assets/summarise.png) | ![Output](./assets/summariseOUTPUT.png) |
 | ![Summarize 2](./assets/summarise2.png) | |
-
-
+---
 ## 🛠️ Tech Stack
 
 ### 🧠 Orchestration & Frameworks
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge&logo=graph&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6F00?style=flat&logo=graph&logoColor=white)
 
 ### 🤖 AI & LLM Inference
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-f55036?style=for-the-badge&logo=lightning&logoColor=white)
-![Tavily](https://img.shields.io/badge/Tavily-00BCD4?style=for-the-badge&logo=target&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-f55036?style=flat&logo=lightning&logoColor=white)
+![Tavily](https://img.shields.io/badge/Tavily-00BCD4?style=flat&logo=target&logoColor=white)
 
 ### 📊 Vector Store & Frontend
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-044F88?style=for-the-badge&logo=facebook&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-044F88?style=flat&logo=facebook&logoColor=white)
 
 ### 🚀 Domain Expertise
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-Robot-blueviolet?style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-Stars-blue?style=for-the-badge)
-![AI Agent](https://img.shields.io/badge/AI%20Agent-Brain-green?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Data-orange?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-Robot-blueviolet?style=flat)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-Stars-blue?style=flat)
+![AI Agent](https://img.shields.io/badge/AI%20Agent-Brain-green?style=flat)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Data-orange?style=flat)
 
 ---
 
@@ -149,3 +154,12 @@ OPENAI_API_KEY=your_openai_api_key_here
 streamlit run app.py
 ```
 ---
+<br/>
+<div align="center">
+  <p>
+    Made with 🩵 by <b>rathod-0007</b>
+  </p>
+  <p>
+    <sub>Copyright © 2026 | All Rights Reserved</sub>
+  </p>
+</div>
