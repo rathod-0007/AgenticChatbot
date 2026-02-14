@@ -153,13 +153,7 @@ OPENAI_API_KEY=your_openai_api_key_here
 ```bash
 streamlit run app.py
 ```
----
-<br/>
-<div align="center">
-  <p>
-    Made with 🩵 by <b>rathod-0007</b>
-  </p>
-  <p>
-    <sub>Copyright © 2026 | All Rights Reserved</sub>
-  </p>
-</div>
+<p align="center">
+  Made with 🩵 by <b>rathod-0007</b><br/>
+  <sub>Copyright © 2026 | All Rights Reserved</sub>
+</p>
